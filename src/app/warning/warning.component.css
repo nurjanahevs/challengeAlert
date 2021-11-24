@@ -1,0 +1,14 @@
+div .col-12{
+  margin-top: 20px;
+  margin-left: 300px;
+  border: 2px solid red;
+  background-color: rgb(243, 125, 125);
+  width: 500px;
+  height: 300;
+}
+
+p{
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
